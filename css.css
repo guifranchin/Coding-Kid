@@ -1,0 +1,157 @@
+@import url("https://fonts.googleapis.com/css2?family=Inter:wght@400;700&display=swap");
+
+* {
+  margin: 0;
+  padding: 0;
+  font-family: "Inter", sans-serif;
+}
+
+section {
+  display: flex;
+  flex-direction: column;
+  width: 100%;
+  height: 100vh;
+
+  font-style: normal;
+  font-weight: 800;
+  font-size: 16px;
+  line-height: 19px;
+  color: #ffffff;
+}
+
+.first-page {
+  background-color: #116cff;
+  display: flex;
+  flex-direction: column;
+}
+
+.first-page header {
+  align-items: center;
+  padding-top: 30px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+}
+
+.cabecalho {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+  flex-grow: 2;
+  font-size: 16px;
+}
+
+.elemnts-grow-1 {
+  display: flex;
+  justify-content: space-around;
+  flex-grow: 1;
+}
+
+.logo {
+  display: flex;
+  height: 40px;
+}
+
+.logo-letter {
+  padding: 0px 10px;
+  font-weight: 800;
+  font-size: 22.5524px;
+  color: #00235c;
+  background-color: white;
+  display: flex;
+  align-items: center;
+}
+
+.text-coding-kid {
+  font-weight: 800;
+  font-size: 12.6857px;
+  background: #00235c;
+  padding: 10px;
+  display: flex;
+  align-items: center;
+}
+
+.login-text {
+  color: #116cff;
+  background-color: #ffffff;
+  padding: 10px 30px;
+  border-radius: 10px;
+}
+
+.first-page main {
+  display: flex;
+  flex-grow: 1;
+  flex-direction: row;
+  justify-content: space-evenly;
+  align-items: center;
+}
+
+.first-page .flex-inline-buttons {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+}
+
+.first-page .left-side{
+    max-width: 35%;
+    
+}
+
+.first-page .left-button {
+  font-weight: 700;
+  font-size: 20px;
+  line-height: 24px;
+  text-align: center;
+  color: #116cff;
+
+  background-color: #ffffff;
+  border-radius: 10px;
+  padding: 10px 30px;
+}
+
+.first-page .right-button {
+  font-weight: 500;
+  font-size: 20px;
+  line-height: 24px;
+  color: #ffffff;
+
+  border: 1px solid #ffffff;
+  box-sizing: border-box;
+  padding: 10px 30px;
+  border-radius: 10px;
+}
+
+.first-page .text-topside {
+  font-style: normal;
+  font-weight: 800;
+  font-size: 50px;
+  line-height: 160%;
+
+  color: #ffffff;
+}
+
+.first-page .text-botside {
+    font-weight: 500;
+    font-size: 18px;
+    line-height: 180%;
+
+    color: #FFFFFF;
+}
+
+.first-page .right-side {
+    display: flex;
+    
+}  
+
+.first-page .square {
+    width: 423px;
+    height: 395px;
+    background-color: #FFFFFF;
+    border-radius: 20px;
+    position: absolute;
+    margin-left: 5%;
+}  
+
+.first-page .guy-right-side {
+    z-index: 1;
+}
