@@ -4,7 +4,7 @@
 # Lading Page
 
 Projeto com intuito de aprender html e css.
-https://guifranchin.github.io/codingkid/
+https://guifranchin.github.io/coding-kid/
 
 ## Veja o desenvolvimento do projeto:
 
