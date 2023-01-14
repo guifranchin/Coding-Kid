@@ -1,28 +1,42 @@
+# Coding Kid: Learning HTML and CSS
 
-<img src="./example.png" alt="exemplo imagem">
+Coding Kid is a project aimed at learning HTML and CSS. The goal of this project is to provide a simple and interactive way for kids to learn the basics of web development. The project includes interactive lessons and exercises to help children understand the concepts of HTML and CSS and how they can be used to create simple websites.
 
-# Lading Page
+The project also includes an example project that demonstrates how the concepts learned in the lessons can be applied in a real-world scenario. You can view the example project by visiting the following link: guifranchin.github.io/coding-kid/
 
-Projeto com intuito de aprender html e css.
-https://guifranchin.github.io/coding-kid/
+The example project can be found in the image below:
+<img src="./example.png" alt="Example Image">
 
-## Veja o desenvolvimento do projeto:
+## Getting Started
 
-## 🤝 Contribuição
+These instructions will get you a copy of the project up and running on your local machine for development and testing purposes.
 
-Projeto aberto para ajuda!
+### Prerequisites
 
-Lembre de seguir os requisitos da licensa...
+- Basic understanding of HTML and CSS
 
-## 🔖 Licensa
-[![LICENSA](https://img.shields.io/badge/Custom_GPL_3.0-E58080?style=for-the-badge&logo=bookstack&logoColor=white)](/LICENSE)
+### Installing
 
-## 💰 Donate
-PIX: a4eabcdd-1899-48cc-b751-bfd8bb92e96e (chave aleatoria)
+1. Clone the repository:
+```bash
+git clone https://github.com/<username>/coding-kid.git
+```
+2. Open the project in your preferred text editor
+3. Explore the lessons and exercises
 
-## 😎 Como rodar
+## Built With
 
- `git clone https://github.com/guifranchin/ladingpage.git`
-- Abra o arquivo index.html
+* HTML
+* CSS
 
-<p align="center">Copyright © 2022 Guilherme Franchin</p>
+## Contributing
+
+Please read [CONTRIBUTING.md](https://github.com/guifranchin/coding-kid/blob/master/CONTRIBUTING.md) for details on our code of conduct, and the process for submitting pull requests to us.
+
+## Versioning
+
+We use [SemVer](http://semver.org/) for versioning. For the versions available, see the [tags on this repository](https://github.com/guifranchin/coding-kid/tags).
+
+## Authors
+
+* **Guilherme** - *Initial work* - [guifranchin](https://github.com/guifranchin)
